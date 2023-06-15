@@ -27,6 +27,9 @@ print("Tên:",Ten)
 print("Tuổi:",2023 - Tuoi)
 print("Giới tính:",Gioi_tinh)
 
+print(type(Tuoi))
+print(type(Gioi_tinh))
+
 # Quy tắc đặt tên biến
 '''
 Không bắt đầu bằng số
